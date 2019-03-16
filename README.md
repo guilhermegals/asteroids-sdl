@@ -20,3 +20,5 @@ Projeto desenvolvido durante o Segundo ano do Ensino médio utilizando a linguag
 
 **Fim do jogo**
 ![Fim do jogo](https://github.com/guilhermegals/Imagens/blob/master/AsteroidsGameOver.jpg "Fim")
+
+**Desenvolvido por Guilherme Augusto Leite Santos em 2016**
